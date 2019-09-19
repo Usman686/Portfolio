@@ -1,0 +1,184 @@
+.header
+{
+  width: 100%;
+}
+
+hr
+{
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 7%;
+  color: #eee;
+  padding-top: 20px;
+  padding-bottom: 40px;
+}
+
+.introduction
+{
+  text-align: center;
+}
+
+h1
+{
+  font-family: Trebuchet MS;
+  font-size: 40px;
+  color: #234;
+  text-align: center;
+}
+
+h2
+{
+  font-family: Trebuchet MS;
+  color: #39d;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+h3
+{
+  font-family: Trebuchet MS;
+  color: #234;
+  text-align: center;
+
+}
+
+pre
+{
+  font-family: verdana;
+  font-size: 100%;
+  color: #181616;
+  line-height: 25px;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+
+.profile-links
+{
+  font-family: Verdana;
+  color: #105e62;
+}
+
+a
+{
+  text-decoration: none;
+  font-family: Verdana;
+  color: white;
+  background-color: green;
+  padding: 12px 20px 12px 20px ;
+  border-radius: 5px;
+  text-align: center;
+  display: inline-block;
+}
+a:hover
+{
+  background-color: #105e62;
+}
+
+.fiverr
+{
+  padding-left: 25px;
+  padding-right: 25px;
+  font-size: 102%;
+}
+
+.design
+{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.second-h2
+{
+  margin-left: 48%;
+}
+.design img
+{
+  float: left;
+  width: 17%;
+  margin-left: 20%;
+  padding-top: 25px;
+}
+.design pre
+{
+  text-align: left;
+  margin-left: 48%;
+  margin-right: auto;
+}
+
+.Create
+{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.third-h2
+{
+  margin-left: 24%;
+}
+.create img
+{
+  float: right;
+  width: 15%;
+  margin-right: 20%;
+  padding-top: 25px;
+}
+.create pre
+{
+  text-align: left;
+  margin-left: 24%;
+  margin-right: auto;
+}
+
+
+table
+{
+  font-family: verdana;
+  text-align: left;
+  width: 70%;
+  margin-left: 15%;
+  margin-right: auto;
+
+}
+th, td
+{
+  padding: 10px 10px;
+}
+
+.i-can-help
+{
+  text-align: center;
+
+}
+
+.message
+{
+  text-align: center;
+  font-size: 20px;
+  background-color: #39d;
+  padding: 12px 20px;
+  color: white;
+  text-decoration: none;
+  display: inline-block;
+  font-family: verdana;
+  border-style: none;
+  border-radius: 6px;
+  margin-left: 42%;
+  margin-right: auto;
+  cursor: pointer;
+}
+
+.message:hover
+{
+  background-color: #234;
+}
+
+footer
+{
+  font-family: Verdana;
+  text-align: center;
+  background-color: #234;
+  color: white;
+  font-size: 15px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
